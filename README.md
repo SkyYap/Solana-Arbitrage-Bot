@@ -225,6 +225,3 @@ If you found this repository and article helpful, please **star ⭐ the project*
 
 ---
 
-
-Just say “generate FAQ section” 👍
-```
